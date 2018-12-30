@@ -1,0 +1,28 @@
+#head{
+    color:aqua;
+    font-size: 30px;
+    
+}
+#hpn{
+    color: aquamarine;
+    font-display: auto;
+    font-size: 15px;
+    text-align: center;
+    background-color: aliceblue;
+    border:solid 1px black;
+}
+#fitcenter{
+    text-align: center;
+    font-size: 30px;
+    width: auto;
+    height: auto;
+   
+}
+#adress{
+    font-size: 10px;
+    color: black;
+}
+#messeagespace{
+    border:solid 1px black;
+    text-align: center;
+}
